@@ -44,3 +44,4 @@ To run the tests:
     $ bundle exec kitchen test default-centos-72
 
 Requires Docker.
+# https://alexharv074.github.io/2016/05/25/testing-an-ansible-role-using-test-kitchen.html
